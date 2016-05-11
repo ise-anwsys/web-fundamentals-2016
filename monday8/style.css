@@ -1,0 +1,15 @@
+p {
+    color: #bada55;
+}
+
+#id {
+    background-color: beige;
+}
+
+.btn {
+    font-family: Courier New, Courier, monospace;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}

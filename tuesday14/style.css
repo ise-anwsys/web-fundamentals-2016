@@ -1,0 +1,24 @@
+h1 {
+    color: #bada55;
+}
+
+#id {
+    background-color: rebeccapurple;
+}
+
+.active {
+    background-color: lightcoral;
+}
+
+.white {
+    color: white;
+}
+
+ol>li {
+    font-weight: bold;
+}
+
+#surprise {
+    font-size: 4em;
+    display: none;
+}
